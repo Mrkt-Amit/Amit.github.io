@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My Academic Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a PhD candidate in [Field of Study] at [University Name], where my research focuses on [specific research focus, e.g., the intersection of artificial intelligence and sustainable development]. I am passionate about advancing our understanding of [core academic interest, e.g., the role of machine learning in predictive healthcare], and my work explores [briefly mention the specific angle or methodology you are using, e.g., data-driven models, computational simulations, etc.].
+
+My academic journey is driven by a profound desire to [mention the broader impact of your research, e.g., improve patient outcomes through AI, enhance environmental sustainability through technological innovations]. Through my work, I strive to contribute to groundbreaking research that addresses some of the most pressing global challenges.
+
+In addition to my research, I am actively engaged in [mention any mentoring, teaching, or outreach programs], with a particular focus on fostering [highlight teaching philosophy, e.g., critical thinking, interdisciplinary learning, hands-on research experiences] among students.
 
 A data-driven personal website
 ======
